@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Baloo-Regular
+font link: https://fonts.google.com/specimen/Baloo
+font author: Ek Type
+font author site: https://ektype.in/
+
+
+icon designer: Alex Sheyn
+icon designer link: /theonlygoodalex
+        
+{"bg":"#E1F3FC","font":"#012B3D","icon-gradient-0":"#0076DD","icon-gradient-1":"#00CDE9","slogan":"#153f51"}
+      
